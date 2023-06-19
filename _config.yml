@@ -20,21 +20,21 @@
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Virtual Rohng
+title:                 Rohng
 
 timezone:              Asia/Seoul
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  :computer: 보고 배우고 느낀 것들 :bulb:
+  일상:high_voltage: 생각:bulb:
   #  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
   #  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
 #tagline:               Change `tagline` in `_config.yml`
 tagline:                >
-  :computer: 보고 배우고 느낀 것들 :bulb:
+  일상:high_voltage: 생각:bulb:
 
 # A list of keywords for your blog
 keywords:              ["Life", "ECE"]
