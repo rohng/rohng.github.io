@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    공부하는 로그를 남깁니다.
-    아이디어/이벤트 로그를 남깁니다.
-    소중한 일상을 기록합니다.
+    공부하는 로그를 남깁니다. <BR>
+    아이디어/이벤트 로그를 남깁니다. <BR>
+    소중한 일상을 기록합니다. <BR>
   #  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
   #  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   #  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
